@@ -1,43 +1,7 @@
-<img src="https://raw.githubusercontent.com/itstommi/itstommi/main/Rainbow.gif" width="100%">
+<div align="center">
 
-Hi 👋 My name is bibin thomas
-=============================
+# Hi 👋 My name is Bibin Thomas
 
-Web Developer
--------------
+## DO COOL STUFF!!
 
-Pursuing Computer Science and Cognitive System , Proficient in Javascript, python, and many other. I have successfully completed various projects showcasing my expertise in the MERN (MongoDB, Express.js, React.js, Node.js) stack. I possess a keen interest in cloud technologies and their integration with cutting-edge web development. Recognized for my organizational skills and dependability, I am adept at managing multiple priorities while maintaining a positive attitude. I am always willing to take on additional responsibilities to ensure the success of the team and achieve our collective goals.
-<img src="https://user-images.githubusercontent.com/75531528/152545832-d214dd8e-ef35-469e-9f76-877b319af27a.gif" width="200" align="right" >
-* 🌍  I'm based in India
-* ✉️  You can contact me at [bibinthomas951@gmail.com](mailto:bibinthomas951@gmail.com)
-* 🧠  I'm learning RUST
-* 🤝  I'm open to collaborating on Website Development
-* ⚡  I love Animals
-* 	&#128279; [bibinthomas.netlify.app/](http://bibinthomas.netlify.app/)
-
-### Skills
-
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://flask.palletsprojects.com/en/2.1.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="flask" /></a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs.svg" width="36" height="36" alt="nextjs" /></a>
-   <a href="(https://www.java.com/en/)" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="nextjs" /></a>
-   <a href="(https://www.expressjs.com/en/)" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express.svg" width="36" height="36" alt="nextjs" /></a>
-   <a href="(https://www.rust-lang.org/)" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rust-colored.svg" width="36" height="36" alt="nextjs" /></a>
- 
-</p>
-
-### Tools
-
-![Tools](https://skillicons.dev/icons?i=bash,git,github,netlify,vscode,figma,ps,postman,heroku,docker&theme=dark)
-
+</div>
